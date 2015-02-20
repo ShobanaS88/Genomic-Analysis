@@ -1,12 +1,12 @@
 Name      Present
 =================
-Reed
+Reed      HERE
 Ryan
-Jason
+Jason - Here.
 Tanvi
 Gavin
 Adam
-Carolann
+Carolann here
 Shay
 Shobana   HERE
 Haran
